@@ -6,8 +6,6 @@ public class Heart {
 
     Heart()
     {
-
-
         heartX[1] = 200;
         heartY[1] = 390;
         heartX[2] = 130;
